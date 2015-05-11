@@ -1,6 +1,6 @@
 <?php
-	echo "Hallo Linda";
 	echo "Edit oleh K3513058";
+	echo "Diedit teman oleh K3513036";
 ?>
 
 <?php
